@@ -1,0 +1,4 @@
+Ini, TOML
+[build]
+  command = "bun run build"
+  publish = "dist"
